@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.comment {
+    margin-left: 20px;
+    border-left: 1px solid #ccc;
+    padding-left: 10px;
+}
+.author {
+    font-weight: bold;
+    color: #0079d3;
+}
+.score {
+    color: #888;
+    font-size: 0.9em;
+}
+a {
+    color: #ff4500;
+    text-decoration: none;
+}

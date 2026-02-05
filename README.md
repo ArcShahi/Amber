@@ -15,15 +15,9 @@ You can create bots to harass people though.
 
 
 
-**Reddit 2023 r/Place API outrage** [Read More about it Here](https://www.reddit.com/r/place/comments/155i90n/what_does_fuck_spez_mean/)
+**Reddit 2023 r/Place API outrage**: [Read More about it Here](https://www.reddit.com/r/place/comments/155i90n/what_does_fuck_spez_mean/)
 
-https://www.reddit.com/r/place/comments/155i90n/what_does_fuck_spez_mean/
 
 <img width="928" height="522" alt="image" src="https://github.com/user-attachments/assets/84190e38-8a5f-4ee3-ad27-4965a8032736" />
 
 
-
-## TODO ( IF REDDIT ACCEPTS)
- - Error handling
- - Arhiving in JSON format
- - Progress tracking

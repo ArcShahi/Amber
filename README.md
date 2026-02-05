@@ -15,7 +15,7 @@ You can create bots to harass people though.
 
 
 
-**Reddit 2023 r/Place API outrage** https://en.wikipedia.org/w/index.php?title=Fuck_Spez&redirect=no
+**Reddit 2023 r/Place API outrage** [Read More about it Here](https://www.reddit.com/r/place/comments/155i90n/what_does_fuck_spez_mean/)
 
 https://www.reddit.com/r/place/comments/155i90n/what_does_fuck_spez_mean/
 
